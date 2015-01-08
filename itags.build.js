@@ -16,8 +16,11 @@
 (function (window) {
 
     "use strict";
-    require('itags.core')(window);
     require('i-select')(window);
     require('i-parcel')(window);
-
+global.I = {};
+global.I.async = require('utils').async;
+global.I.asyncSilent = require('utils').asyncSilent;
+global.I.later = require('utils').later;
+global.I.laterSilent = require('utils').laterSilent;
 })(global.window || require('node-win'));
