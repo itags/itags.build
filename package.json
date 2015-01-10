@@ -31,6 +31,8 @@
         "itags.core": "itags/itags.core",
         "i-select": "itags/i-select",
         "i-parcel": "itags/i-parcel",
+        "i-head": "itags/i-head",
+        "i-item": "itags/i-item",
         "utils": "itsa/utils",
         "focusmanager": "itsa/focusmanager",
         "node-win": "itsa/node-win"

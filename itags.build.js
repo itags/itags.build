@@ -18,9 +18,7 @@
     "use strict";
     require('i-select')(window);
     require('i-parcel')(window);
-global.I = {};
-global.I.async = require('utils').async;
-global.I.asyncSilent = require('utils').asyncSilent;
-global.I.later = require('utils').later;
-global.I.laterSilent = require('utils').laterSilent;
+    require('i-head')(window);
+    require('i-item')(window);
+
 })(global.window || require('node-win'));
