@@ -29,6 +29,7 @@
     },
     "dependencies": {
         "itags.core": "itags/itags.core",
+        "i-tabpane": "itags/i-tabpane",
         "i-select": "itags/i-select",
         "i-parcel": "itags/i-parcel",
         "i-head": "itags/i-head",
