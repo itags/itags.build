@@ -22,4 +22,6 @@
     require('i-head')(window);
     require('i-item')(window);
 
+     window.laterSilent = require('utils').laterSilent;
+
 })(global.window || require('node-win'));
