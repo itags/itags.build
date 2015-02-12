@@ -19,9 +19,8 @@
     require('i-tabpane')(window);
     require('i-select')(window);
     // require('i-parcel')(window);
+    require('i-label')(window);
     require('i-input')(window);
-    require('i-head')(window);
-    require('i-item')(window);
     require('i-form')(window);
 
      window.laterSilent = require('utils').laterSilent;
