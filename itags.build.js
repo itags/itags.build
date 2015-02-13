@@ -21,8 +21,9 @@
     // require('i-parcel')(window);
     require('i-label')(window);
     require('i-input')(window);
+    require('i-button')(window);
+    require('i-reset')(window);
     require('i-form')(window);
-
-     window.laterSilent = require('utils').laterSilent;
+    require('i-checkbox')(window);
 
 })(global.window || require('node-win'));

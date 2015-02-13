@@ -31,13 +31,12 @@
         "node": "*"
     },
     "dependencies": {
-        "itags.core": "itags/itags.core",
         "i-tabpane": "itags/i-tabpane",
         "i-select": "itags/i-select",
         "i-parcel": "itags/i-parcel",
         "i-input": "itags/i-input",
-        "utils": "itsa/utils",
-        "focusmanager": "itsa/focusmanager",
+        "i-label": "itags/i-label",
+        "i-button": "itags/i-button",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {
