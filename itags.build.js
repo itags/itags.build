@@ -18,7 +18,7 @@
     "use strict";
     require('i-tabpane')(window);
     require('i-select')(window);
-    // require('i-parcel')(window);
+    require('i-parcel')(window);
     require('i-label')(window);
     require('i-input')(window);
     require('i-button')(window);
