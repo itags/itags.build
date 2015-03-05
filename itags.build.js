@@ -25,5 +25,6 @@
     require('i-reset')(window);
     require('i-form')(window);
     require('i-checkbox')(window);
+    require('i-statusbar')(window);
 
 })(global.window || require('node-win'));

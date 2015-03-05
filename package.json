@@ -37,6 +37,7 @@
         "i-input": "itags/i-input",
         "i-label": "itags/i-label",
         "i-button": "itags/i-button",
+        "i-statusbar": "itags/i-statusbar",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {
