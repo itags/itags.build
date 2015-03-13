@@ -27,10 +27,15 @@
     "browserify": {
         "transform": ["cssify"]
     },
+    "directories": {
+        "css": "./css",
+        "extra": "./extra"
+    },
     "engines": {
         "node": "*"
     },
     "dependencies": {
+        "itsa": "itsa/itsa",
         "i-tabpane": "itags/i-tabpane",
         "i-select": "itags/i-select",
         "i-parcel": "itags/i-parcel",
@@ -38,6 +43,8 @@
         "i-label": "itags/i-label",
         "i-button": "itags/i-button",
         "i-statusbar": "itags/i-statusbar",
+        "i-menu": "itags/i-menu",
+        "i-nav": "itags/i-nav",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {

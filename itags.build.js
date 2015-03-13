@@ -16,6 +16,7 @@
 (function (window) {
 
     "use strict";
+    require('./extra/dialog');
     require('i-tabpane')(window);
     require('i-select')(window);
     require('i-parcel')(window);
@@ -26,5 +27,7 @@
     require('i-form')(window);
     require('i-checkbox')(window);
     require('i-statusbar')(window);
+    require('i-menu')(window);
+    require('i-nav')(window);
 
 })(global.window || require('node-win'));

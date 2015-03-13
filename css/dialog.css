@@ -1,0 +1,8 @@
+[plugin-panel="true"] i-input#iprompt[type="email"],
+[plugin-panel="true"] i-input#iprompt[type="url"] {
+    width: 20em;
+}
+
+[plugin-panel="true"] i-input#iprompt[type="number"] {
+    width: 8em;
+}
