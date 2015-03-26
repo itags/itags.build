@@ -45,6 +45,7 @@
         "i-statusbar": "itags/i-statusbar",
         "i-menu": "itags/i-menu",
         "i-nav": "itags/i-nav",
+        "i-link": "itags/i-link",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {

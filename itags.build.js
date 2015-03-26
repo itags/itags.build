@@ -29,5 +29,6 @@
     require('i-statusbar')(window);
     require('i-menu')(window);
     require('i-nav')(window);
+    require('i-link')(window);
 
 })(global.window || require('node-win'));
