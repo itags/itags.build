@@ -46,6 +46,8 @@
         "i-menu": "itags/i-menu",
         "i-nav": "itags/i-nav",
         "i-link": "itags/i-link",
+        "i-splitdiv": "itags/i-splitdiv",
+        "i-scroller": "itags/i-scroller",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {

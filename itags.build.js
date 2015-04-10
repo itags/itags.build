@@ -30,5 +30,7 @@
     require('i-menu')(window);
     require('i-nav')(window);
     require('i-link')(window);
+    require('i-splitdiv')(window);
+    require('i-scroller')(window);
 
 })(global.window || require('node-win'));
