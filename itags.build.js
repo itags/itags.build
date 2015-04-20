@@ -32,5 +32,6 @@
     require('i-link')(window);
     require('i-splitdiv')(window);
     require('i-scroller')(window);
+    require('i-table')(window);
 
 })(global.window || require('node-win'));
