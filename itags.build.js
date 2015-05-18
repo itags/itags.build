@@ -33,5 +33,6 @@
     require('i-splitdiv')(window);
     require('i-scroller')(window);
     require('i-table')(window);
+    require('i-graph')(window);
 
 })(global.window || require('node-win'));

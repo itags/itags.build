@@ -49,6 +49,7 @@
         "i-splitdiv": "itags/i-splitdiv",
         "i-scroller": "itags/i-scroller",
         "i-table": "itags/i-table",
+        "i-graph": "itags/i-graph",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {
