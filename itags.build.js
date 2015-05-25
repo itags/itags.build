@@ -25,6 +25,7 @@
     require('i-button')(window);
     require('i-reset')(window);
     require('i-form')(window);
+    require('i-formvalue')(window);
     require('i-checkbox')(window);
     require('i-statusbar')(window);
     require('i-menu')(window);
