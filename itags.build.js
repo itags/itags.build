@@ -32,6 +32,7 @@
     require('i-nav')(window);
     require('i-link')(window);
     require('i-splitdiv')(window);
+    require('i-splitdiv-secondfixed')(window);
     require('i-splitdiv3')(window);
     require('i-scroller')(window);
     require('i-table')(window);

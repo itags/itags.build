@@ -47,6 +47,7 @@
         "i-nav": "itags/i-nav",
         "i-link": "itags/i-link",
         "i-splitdiv": "itags/i-splitdiv",
+        "i-splitdiv-secondfixed": "itags/i-splitdiv-secondfixed",
         "i-splitdiv3": "itags/i-splitdiv3",
         "i-scroller": "itags/i-scroller",
         "i-table": "itags/i-table",
