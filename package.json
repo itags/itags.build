@@ -51,7 +51,9 @@
         "i-splitdiv3": "itags/i-splitdiv3",
         "i-scroller": "itags/i-scroller",
         "i-table": "itags/i-table",
+        "i-table-multisource": "itags/i-table-multisource",
         "i-chart-line": "itags/i-chart-line",
+        "i-memo": "itags/i-memo",
         "node-win": "itsa/node-win"
     },
     "devDependencies": {
