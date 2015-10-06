@@ -36,7 +36,9 @@
     require('i-splitdiv3')(window);
     require('i-scroller')(window);
     require('i-table')(window);
+    require('i-table-multisource')(window);
     require('i-chart-line')(window);
+    require('i-memo')(window);
 
     // in case of async requests, we look for the global method: `window._ITSAscripts2`
     // if there, then we execute it. This is used in these situations:
